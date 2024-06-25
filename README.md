@@ -1,4 +1,4 @@
-# Add Spring context to Maven project
+# Programmatically adding beans to the Spring context
 
 > This project is based on chapter **2.2.3. Programmatically adding beans to the Spring context** from book **Spring Starts here (2021)** by Laurentiu Spilca.
 
